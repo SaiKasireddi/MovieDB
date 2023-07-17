@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MovieDB
+
+  Created by Sai Kumar Kasireddi on 12/07/23.
+  
+*/
+
+"movie.database" = "Movie Database";
+"home.view.search.box.prompt" = "Search Movies By Title/Genre/Actor/Director";
+"loading.image" = "Loading Image";
